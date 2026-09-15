@@ -5,10 +5,10 @@ This repository contains the code and numerical data for the accompanying Nature
 ## Authors
 
 - [Ruiyi Zhao](https://edas.info/showPerson.php?p=2467850&c=34965), University of New South Wales, Australia
+- [Taha H. Rashidi](https://edas.info/showPerson.php?p=2026639&c=34965), University of New South Wales, Australia
 - [Khaled Almiani](https://edas.info/showPerson.php?p=1664449&c=34965), Higher Colleges of Technology, United Arab Emirates
 - [Salil S Kanhere](https://edas.info/showPerson.php?p=108880&c=34965), UNSW Sydney, Australia
 - [Travis Waller](https://edas.info/showPerson.php?p=132851&c=34965), The University of Texas at Austin, USA
-- [Taha H. Rashidi](https://edas.info/showPerson.php?p=2026639&c=34965), University of New South Wales, Australia
 
 ## Download and verification
 
